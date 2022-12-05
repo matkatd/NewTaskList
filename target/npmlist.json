@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"tasklist","dependencies":{"@mdi/font":{"version":"5.9.55"},"core-js":{"version":"3.26.1"},"register-service-worker":{"version":"1.7.2"},"roboto-fontface":{"version":"0.10.0"},"vue-async-computed":{"version":"3.9.0"},"vue-router":{"version":"3.6.5"},"vue":{"version":"2.7.14"},"vuetify":{"version":"2.6.12"}}}
